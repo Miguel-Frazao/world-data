@@ -1,5 +1,5 @@
 # World-data
-Data related to diferent aspects of the world, in json/csv formats.
+Data related to diferent aspects of the world (it's countries, cities, languages, etc...), in json formats.
 
 Most of this files are acquired through python web crawler scripts.
 
